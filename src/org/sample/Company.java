@@ -12,5 +12,8 @@ public class Company {
 		Company c=new Company();
 		c.companyID();
 		c.compnayName();
+		
+		System.out.println("Alter");
 	}
 }
+  
